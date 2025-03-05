@@ -1,0 +1,26 @@
+
+
+In this first level, you’ll explore and summarise the dataset to understand its structure and key statistics. If you want to push yourself further, check out level two! Create a report that answers the following:
+
+How many records are in the dataset, and what is the range of years covered?
+What is the average salary (in USD) for Data Scientists and Data Engineers? Which role earns more on average?
+How many full-time employees based in the US work 100% remotely?
+
+
+
+
+In this second level, you’ll create visualisations to analyse the data and uncover trends. If you’re up for an even greater challenge, head to level three! Create a report that answers the following:
+
+Create a bar chart displaying the top 5 job titles with the highest average salary (in USD).
+Compare the average salaries for employees working remotely 100%, 50%, and 0%. What patterns or trends do you observe?
+Visualise the salary distribution (in USD) across company sizes (S, M, L). Which company size offers the highest average salary?
+
+
+
+
+In this final level, you’ll develop predictive models and dive deeper into the dataset. If this feels overwhelming, consider completing the earlier levels first! Create a report that answers the following:
+
+Analyse how factors such as country, experience level, and remote ratio impact salaries for Data Analysts, Data Scientists, and Machine Learning Engineers. In which conditions do professionals achieve the highest salaries?
+Develop a predictive model to estimate an employee’s salary (in USD) using experience level, company location, and remote ratio. Which features are the strongest predictors of salary?
+Expand your model by incorporating additional features, such as company size and employment type. Evaluate its performance, what improves, and what doesn’t? Finally, propose new features to make future salary predictions even more accurate future salary predictions even more accurate.
+Judging criteria
